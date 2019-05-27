@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "name": "Lenon Archihon"
+      "name": "Lenon Archihon",
+      "description": "test description"
     },
     {
       "id": 2,
