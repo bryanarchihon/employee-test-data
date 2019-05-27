@@ -22,49 +22,4 @@
   "id": 5,
   "name": "Emma Watson",
   "description":"Test Description"
-},
-{
-  "id": 6,
-  "name": "Jesse Mendiola",
-  "description":"Test Description"
-},
-{
-  "id": 7,
-  "name": "New Employee",
-  "description":"Test Description"
-},
-{
-  "id": 8,
-  "name": "Test Employee1",
-  "description":"Test Description"
-},
-{
-  "id": 9,
-  "name": "Test Employee2",
-  "description":"Test Description"
-},
-{
-  "id": 10,
-  "name": "Test Employee3",
-  "description":"Test Description"
-},
-{
-  "id": 11,
-  "name": "Test Employee4",
-  "description":"Test Description"
-},
-{
-  "id": 12,
-  "name": "Test Employee5",
-  "description":"Test Description"
-},
-{
-  "id": 13,
-  "name": "Test Employee6",
-  "description":"Test Description"
-},
-{
-  "id": 14,
-  "name": "Test Employee7",
-  "description":"Test Description"
 }]
