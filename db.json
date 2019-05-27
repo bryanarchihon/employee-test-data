@@ -6,23 +6,23 @@
     },
     {
       "id": 2,
-      "name": "Foo Bar"
+      "title": "Foo Bar"
     },
     {
       "id": 3,
-      "name": "John Consumer"
+      "title": "John Consumer"
     },
     {
       "id": 4,
-      "name": "John Tester"
+      "title": "John Tester"
     },
     {
       "id": 5,
-      "name": "Emma Watson"
+      "title": "Emma Watson"
     },
     {
       "id": 6,
-      "name": "Jesse Mendiola"
+      "title": "Jesse Mendiola"
     }
   ],
   "comments": [
