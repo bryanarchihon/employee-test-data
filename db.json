@@ -1,29 +1,24 @@
 {
-  "employees": [
+  "posts": [
     {
       "id": 1,
-      "name": "Lenon Archihon",
-      "description": "Test Description"
+      "name": "Lenon Archihon"
     },
     {
       "id": 2,
-      "name": "Foo Bar",
-      "description": "Test Description"
+      "name": "Foo Bar"
     },
     {
       "id": 3,
-      "name": "John Consumer",
-      "description": "Test Description"
+      "name": "John Consumer"
     },
     {
       "id": 4,
-      "name": "John Tester",
-      "description": "Test Description"
+      "name": "John Tester"
     },
     {
       "id": 5,
-      "name": "Emma Watson",
-      "description": "Test Description"
+      "name": "Emma Watson"
     }
   ],
   "comments": [
