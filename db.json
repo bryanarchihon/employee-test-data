@@ -7,27 +7,27 @@
     },
     {
       "id": 2,
-      "title": "Foo Bar",
+      "name": "Foo Bar",
       "description": "test description"
     },
     {
       "id": 3,
-      "title": "John Consumer",
+      "name": "John Consumer",
       "description": "test description"
     },
     {
       "id": 4,
-      "title": "John Tester",
+      "name": "John Tester",
       "description": "test description"
     },
     {
       "id": 5,
-      "title": "Emma Watson",
+      "name": "Emma Watson",
       "description": "test description"
     },
     {
       "id": 6,
-      "title": "Jesse Mendiola",
+      "name": "Jesse Mendiola",
       "description": "test description"
     },
     {
